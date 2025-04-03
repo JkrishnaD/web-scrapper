@@ -1,0 +1,10 @@
+I build modern websites and web applications with a focus on clean design and performance. Specializing in React and TypeScript to create reliable solutions for businesses.
+Present
+I've worked on a variety of projects, from simple websites to some slightly complex web applications. Here are a few of my favorites.
+An intuitive automation platform inspired by Zapier. It simplifies complex workflows by linking various actions to a trigger. With features like webhook-based triggers, integration with services like Resend(email) and Solana, and support for asynchronous task handling using Kafka queues
+A fast and lightweight real-time messaging application built for instant communication. It offers a minimalist design, responsive UI, and efficient real-time updates powered by Convex database. Quick Chat focuses on providing a smooth, user-centric experience for individuals and teams.
+A collaborative platform designed for sharing and exploring ideas. It features user authentication with OAuth and credentials-based login, ThoughtSpace encourages meaningful connections and intellectual discussions in a visually appealing and user-friendly interface.
+A robust authentication framework designed for secure user access management. It supports OAuth integrations (e.g., Google, GitHub) and custom credentials, ensuring flexibility and security. Features include JWT-based sessions, secure password hashing, and seamless login flows, making it suitable for scalable applications.
+A user-friendly blogging platform that allows individuals to sign in using email credentials, write blogs, and manage their published content. The platform enables users to view their own blogs in a seamless interface. Built using modern technologies like React for the frontend, Express and Hono for the backend, PostgreSQL for database management, and Zod for validation.
+This landing page is designed to provide an interactive user experience, built with Next.js, TailwindCSS, and TypeScript for seamless performance and modern design.
+Just shoot Into my   twitter Dm with a question I will respond with in no time.
